@@ -27,6 +27,11 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
+
+        //COMMENT THIS MOTHERF*CKER
+
+
+
         //private void Form1_Load(object sender, EventArgs e)
         //{
         //    // Загрузка изображения персонажа
