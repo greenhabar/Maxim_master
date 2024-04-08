@@ -13,6 +13,7 @@ namespace WindowsFormsApp1
     public partial class Паузаигры : Form
     {
         //хахах
+        //хаюхай
         public Паузаигры()
         {
             InitializeComponent();
