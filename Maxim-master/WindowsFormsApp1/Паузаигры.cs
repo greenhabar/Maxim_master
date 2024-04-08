@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         //хахах
         //хаюхай
         //зазаза
+        //халигали
         public Паузаигры()
         {
             InitializeComponent();
