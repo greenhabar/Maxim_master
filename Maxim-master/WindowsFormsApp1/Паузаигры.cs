@@ -18,5 +18,6 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        //добавляю что то в паузу
     }
 }
