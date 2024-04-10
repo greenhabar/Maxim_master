@@ -12,7 +12,7 @@ namespace WindowsFormsApp1
 {
     public partial class Настройки : Form
     {
-        
+        //Добавляю что то в Настройки
         public event Action<int> TrackBarValueChanged;
         public Настройки(int volume)
         {
